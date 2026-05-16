@@ -82,10 +82,3 @@ Clock (VPULSE)
 - Integrate with cryptographic systems  
 
 ---
-
-## Results (Add Images Here)
-- Schematic Screenshot  
-- Waveform Output  
-- Poster / Block Diagram  
-
----
